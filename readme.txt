@@ -1,4 +1,4 @@
-ÏîÄ¿µÄ½éÉÜ
+ï»¿é¡¹ç›®çš„ä»‹ç»
 git init
 git add README.md
 git commit -m "first commit"
